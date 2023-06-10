@@ -1,1 +1,1 @@
-script that sets the permission to the file hello as owner, group owner and other users
+Write a script that changes the mode of the file hello
